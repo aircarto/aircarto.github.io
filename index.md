@@ -6,11 +6,10 @@ You can use the [editor on GitHub](https://github.com/aircarto/aircarto.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<div class="sketchfab-embed-wrapper">
-<iframe width="640" height="480" src="https://sketchfab.com/models/180d03f309f8466bac87a8c37c7ab18a/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/4226351e4d06462e8ab4314a699407be/embed?autostart=1&amp;camera=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/3d-models/boitier-aircarto-v11-180d03f309f8466bac87a8c37c7ab18a?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Boitier AirCarto V1.1</a>
+    <a href="https://sketchfab.com/3d-models/boitier-aircarto-v12-4226351e4d06462e8ab4314a699407be?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Boitier AirCarto V1.2</a>
     by <a href="https://sketchfab.com/ChamanTorve?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ChamanTorve</a>
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
