@@ -1,10 +1,6 @@
+Le projet consiste en la création de cartes affichant la pollution de l'air dans une ville. Au lieu d'avoir des de simples capteurs fixes à certains points stratégiques (carrefour, école, etc), l'idée ici est de crée un capteur de particules fines portable. Ce dernier, couplé à une puce GPS permet de mesurer la pollution atmosphérique tout le long d'un parcours en ville.
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aircarto/aircarto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La démarche se veut citoyenne, ouverte et participative. C'est pourquoi tous les éléments utilisés pour la création du détecteur ainsi que le code pour le faire fonctionner sont disponible en open-source. Les composants du capteur AirCarto sont relativement bon marché et facilement accessible sur les grandes plateforme d'achats en ligne. Le boitier peut-etre imrpimé en 3D ou découpé dans du bois. Au final, le détecteur AirCarto devrait coûter moins de 40 euros.
 
 <div class="sketchfab-embed-wrapper" style="position:relative;padding-top:75%;">
 
