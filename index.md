@@ -6,7 +6,10 @@ You can use the [editor on GitHub](https://github.com/aircarto/aircarto.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<div class="sketchfab-embed-wrapper"><iframe width="304" height="228" src="https://sketchfab.com/models/4226351e4d06462e8ab4314a699407be/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="sketchfab-embed-wrapper" style="position:relative;padding-top:75%;">
+
+<iframe src="https://sketchfab.com/models/4226351e4d06462e8ab4314a699407be/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+</iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/3d-models/boitier-aircarto-v12-4226351e4d06462e8ab4314a699407be?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Boitier AirCarto V1.2</a>
